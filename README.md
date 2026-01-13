@@ -17,12 +17,13 @@
 
 #### Languages
 <div>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,php,bash" height="40" />
+   <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,php,dart" height="40" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" />
 </div>
 
 #### Frameworks & Libraries
 <div>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,laravel" height="40" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,laravel,nodejs,vite,flutter,dotnet" height="40" />
 </div>
 
 #### Databases
@@ -39,20 +40,10 @@
 
 ### 🌐 Connect with Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/vince-andrew-santoya-108299321/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://discordapp.com/users/yourdiscordid" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Vinzz290034" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-   <a href="mailto:hanssantoya@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vince-andrew-santoya-108299321/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vinzz290034)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/yourdiscordid)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hanssantoya@gmail.com)
 
 ---
 
