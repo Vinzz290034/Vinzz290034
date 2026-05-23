@@ -11,7 +11,7 @@
 - 🧠 Currently learning C#, Next.js, and Python  
 
 ---
-<img align="right" width="300" height="300" src="https://64.media.tumblr.com/d0004d0ff2236b8a63f42bfc021600a1/tumblr_pb7xw2esGT1tx45yjo1_540.gif"  />
+<img align="right" width="300" height="300" src="[https://64.media.tumblr.com/d0004d0ff2236b8a63f42bfc021600a1/tumblr_pb7xw2esGT1tx45yjo1_540.gif](https://www.reddit.com/r/HonkaiStarRail/comments/1rqji6k/aha_instant_evanescia/)"  />
 
 ### <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/d9a53afa-630b-4ffe-aea6-0c07d544b774" /> Skills
 
