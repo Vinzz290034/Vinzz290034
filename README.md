@@ -6,7 +6,7 @@
 ### <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/2ad214a8-e5bb-4647-85dc-8fb5cf6a7bc4"/> About Me
 
 
-- 🎓 BSIT student at University of Cebu – Main Campus  
+- 🎓 BSIT Graduate at University of Cebu – Main Campus  
 - 🔐 Passionate about cybersecurity and full-stack development 
 - 🧠 Currently learning C#, Next.js, and Python  
 
