@@ -28,7 +28,7 @@
 
 #### Databases
 <div>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" height="40" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" height="40" />
 </div>
 
 #### Tools & Platforms
