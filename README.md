@@ -11,7 +11,7 @@
 - 🧠 Currently learning C#, Next.js, and Python  
 
 ---
-<img align="right" width="300" height="auto" src="https://i.pinimg.com/236x/37/c6/46/37c646a1cd52b56e83f59592dff87819.jpg"/>
+<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" alt="ILOVECODING"/>
 
 ### <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/d9a53afa-630b-4ffe-aea6-0c07d544b774" /> Skills
 
